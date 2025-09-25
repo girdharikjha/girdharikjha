@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Girdhari Kumar Jha</h1>
 
-- 🔭 I’m currently working on C#,.Net Core. 
+- 🔭 I’m currently working on C#, .Net Core, JavaScript. 
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 I,m passionate about new technology.
 - 📫 How to reach me: girdharikumarjha649@gmail.com
